@@ -35,6 +35,7 @@ custom_replacements = {
   names = {
     # Defender email security contact
     defender_email_security_contact = "infosec@cvrenergy.com"
+    #test
 
     # Resource group names
     management_resource_group_name            = "rg-management-$${starter_location_01}"
