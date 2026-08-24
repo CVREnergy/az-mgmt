@@ -19,6 +19,7 @@ You can define the Azure regions to use throughout the configuration.
 The first location will be used as the primary location, the second as the secondary location, and so on.
 */
 starter_locations = ["southcentralus"]
+# test
 
 /*
 --- Custom Replacements ---
