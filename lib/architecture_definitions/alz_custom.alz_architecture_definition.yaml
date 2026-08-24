@@ -54,12 +54,6 @@
   "id": "management"
   "parent_id": "platform"
 - "archetypes":
-  - "connectivity_custom"
-  "display_name": "Connectivity"
-  "exists": false
-  "id": "connectivity"
-  "parent_id": "platform"
-- "archetypes":
   - "identity_custom"
   "display_name": "Identity"
   "exists": false
